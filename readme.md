@@ -38,7 +38,7 @@
   * Amazon AMI
 
 # Projects
-| Name  | Description | Image |
-| ----  | ----------- | ----- |
-| Toast | Online english speaking study patform using machine learning |  |
-| Extras' Escape | Mobile casual game for all extras |  |
+| Name  | Description |
+| ----  | ----------- |
+| [Toast](toast) | Online english speaking study patform using machine learning |
+| [Extras' Escape](exes) | Mobile casual game for all extras |
